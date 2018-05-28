@@ -46,6 +46,17 @@
 
 ******
 
+## 雕虫晓技
+
+* [雕虫晓技(一) 组件化](http://www.gcssloop.com/gebug/componentr)
+* [雕虫晓技(二) 编码](http://www.gcssloop.com/gebug/coding)
+* [雕虫晓技(三) 通用圆角布局全解析](http://www.gcssloop.com/gebug/rclayout)
+* [雕虫晓技(四) 搭建私有Maven仓库(带容灾备份)](http://www.gcssloop.com/gebug/maven-private)
+* [雕虫晓技(五) 网格分页布局源码解析(上) (付费)](https://xiaozhuanlan.com/topic/5841730926)
+* [雕虫晓技(六) 网格分页布局源码解析(下) (付费)](https://xiaozhuanlan.com/topic/1456397082)
+
+******
+
 ## [教程类](https://github.com/GcsSloop/AndroidNote/tree/master/Course/README.md)
 
 * [在AndroidStudio中使用PlantUML(Win)](https://github.com/GcsSloop/AndroidNote/blob/master/Course/HowToUsePlantUMLInAS.md)
@@ -154,6 +165,7 @@
 
 QQ群：612310796  
 微信群：加我个人微信 GcsSloop，备注加群。
+![](https://ww3.sinaimg.cn/large/006tNc79gy1fl8bemmtmxj30p005k406.jpg)
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
